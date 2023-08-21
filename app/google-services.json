@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673362781940",
+    "project_id": "tochi-a8994",
+    "storage_bucket": "tochi-a8994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673362781940:android:7929a9e37effa5539220a1",
+        "android_client_info": {
+          "package_name": "com.example.proyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673362781940-k0bku8sfvppvomqj4ctvldo3pubah4ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQceIBOTJMeO0j7Y_80rb3ylxiF-1_3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673362781940-k0bku8sfvppvomqj4ctvldo3pubah4ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

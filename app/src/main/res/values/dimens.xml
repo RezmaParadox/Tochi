@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvInfoMarginRight">115dp</dimen>
+    <dimen name="smallButtom">130dp</dimen>
+    <dimen name="smallButomHeight">55dp</dimen>
+    <dimen name="smallButtomWidth">130dp</dimen>
+    <dimen name="buttonCorners">5dp</dimen>
+    <dimen name="mediumButtomWidth">200dp</dimen>
+    <dimen name="mediumButomHeight">55dp</dimen>
+    <dimen name="etHeight">60dp</dimen>
+    <dimen name="_12sdp">12sp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+</resources>
